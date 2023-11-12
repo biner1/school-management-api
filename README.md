@@ -1,5 +1,8 @@
 # School Management System
- 
+
+## link for the client side
+https://github.com/biner1/school-management-client
+
 ## Overview
 This School Management System is created for a private school, which needs to keep track of the student information and fees, it has multiple levels of access, different types of users have different roles, students can view their timetable and pay fees while the principal can view and modify other users information and other principal specific roles.
  
@@ -9,30 +12,7 @@ This project is built specifically for a private school, but can also be used by
 ### This project can be used by:
 1. Small school
 1. Medium school
- 
-## Hardware and System Requirements:
-### Hardware
-1. computer
-1. server
- 
-### Software
-#### Operating System
-1. windows 7 and above
 
-## Team
-#### Biner Omer
-responsible for Building and Designing the project.
-* #### Zeynab Hamad
-    * responsible for Building and Designing the project.
-* #### Abdullah Ahmad
-    * responsible for Building and Designing the project.
-* #### Darya Naji
-    * responsible for Building and Designing the project.
-* #### Mohammed Malah
-    * responsible for Building and Designing the project.
-* #### Naz Farid
-    * responsible for Building and Designing the project.
- 
 ## Goals
 * Allow full and easy control for all the parties
 * Allows complete control of the different activities
@@ -128,12 +108,5 @@ The iterative software model develops a system through building small portions o
     * diagrams.net
     
 
- 
-## Contact us
-* Biner Omer(bineromer19@gmail.com)
-* Zeynab Hamad(Zaynabhamad950@gmail.com)
-* Abdullah Ahmad(Abdullaahmadsheikh@gmail.com)
-* Darya Naji(Daaryaa.naji@gmail.com)
-* Mohammed Malah(muhammedslahqadir@gmail.com)
-* Naz Farid(naz.f.kamal@gmail.com)
+
  
